@@ -37,3 +37,6 @@ To make these questions useful as a tool for reading comprehension, we must also
 From this directory, run the question answering script to generate answers to our questions, save them in the `answers` folder, and add them back to the SQuAD-formatted Wikipedia articles (done with a call to `add_answers.py`, saving the files in `wikipedia_squad_w_answers`).
 
 ``` sh question_answering.sh```
+
+#### 4. Demo
+https://www.ischool.berkeley.edu/projects/2019/autoq-improving-reading-comprehension-through-automatic-question-generation
